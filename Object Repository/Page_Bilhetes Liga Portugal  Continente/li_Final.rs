@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Final</name>
+   <tag></tag>
+   <elementGuidId>bd394894-e711-4236-94d4-4a0243ffafd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdownField.filled.listOpened > ul.listBox > li:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='calendarioLiga']/div/div/div[2]/div[2]/div/div[3]/form/div/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c733ca1b-a4d4-40bc-8812-e7e989d94025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-round</name>
+      <type>Main</type>
+      <value>liga_taca_jornada_2</value>
+      <webElementGuid>35ee2347-f2f9-4135-a1ac-250c68dc1135</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Final</value>
+      <webElementGuid>3b016f31-d96c-41c0-b99b-dce767a77a78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calendarioLiga&quot;)/div[@class=&quot;wrapper grid&quot;]/div[@class=&quot;gameCalendar__container&quot;]/div[@class=&quot;tabSelectionBlock grid&quot;]/div[@class=&quot;tabSelectionBlock__right&quot;]/div[@class=&quot;selectAll_dropdownBlocks&quot;]/div[@class=&quot;dropdownBlock selectedDropdown&quot;]/form[@class=&quot;formFields&quot;]/div[@class=&quot;dropdownField filled listOpened&quot;]/ul[@class=&quot;listBox&quot;]/li[2]</value>
+      <webElementGuid>88c45cdd-27a7-4212-abaa-09796549c1c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='calendarioLiga']/div/div/div[2]/div[2]/div/div[3]/form/div/ul/li[2]</value>
+      <webElementGuid>abc42fd5-9ed1-4232-89a0-f41b7804fbe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meias-finais'])[1]/following::li[1]</value>
+      <webElementGuid>4be51df9-6383-4ba8-903f-87972d0d5d2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campo incorreto'])[2]/following::li[2]</value>
+      <webElementGuid>379ca832-312c-45bd-b769-ed256e7f8f46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campo incorreto'])[3]/preceding::li[1]</value>
+      <webElementGuid>46d22e56-ac9a-411e-ac08-649588382d76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terminado'])[1]/preceding::li[1]</value>
+      <webElementGuid>87447307-10eb-488b-9d5b-553a16db9b63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Final']/parent::*</value>
+      <webElementGuid>c4e3bc5f-21cd-4a1d-a73d-64d75e683aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/form/div/ul/li[2]</value>
+      <webElementGuid>d313fd5a-f399-4b5e-886a-0e944c7be5de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Final' or . = 'Final')]</value>
+      <webElementGuid>230c9a7e-9433-452a-9c7d-40f39168f551</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

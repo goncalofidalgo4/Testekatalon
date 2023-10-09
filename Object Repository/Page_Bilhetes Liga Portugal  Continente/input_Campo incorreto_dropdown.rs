@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Campo incorreto_dropdown</name>
+   <tag></tag>
+   <elementGuidId>a54ade9f-9485-4ad6-89fe-cd00aab1697b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdownBlock.selectedDropdown > form.formFields > div.dropdownField.filled > #dropdown</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@id='dropdown'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d2039a9c-c507-4514-96e9-d8f3d83c907c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>2b149148-124c-47f6-b67e-be187177dbb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Meias-finais</value>
+      <webElementGuid>0161f359-fbbd-4d47-a912-42052407dca2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calendarioLiga&quot;)/div[@class=&quot;wrapper grid&quot;]/div[@class=&quot;gameCalendar__container&quot;]/div[@class=&quot;tabSelectionBlock grid&quot;]/div[@class=&quot;tabSelectionBlock__right&quot;]/div[@class=&quot;selectAll_dropdownBlocks&quot;]/div[@class=&quot;dropdownBlock selectedDropdown&quot;]/form[@class=&quot;formFields&quot;]/div[@class=&quot;dropdownField filled&quot;]/input[@id=&quot;dropdown&quot;]</value>
+      <webElementGuid>588712e6-5c4c-4809-87a6-2f38e0bef170</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@id='dropdown'])[4]</value>
+      <webElementGuid>d932021f-fd81-4712-b959-c54bcce231cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='calendarioLiga']/div/div/div[2]/div[2]/div/div[3]/form/div/input</value>
+      <webElementGuid>a73c3f50-16a0-461e-977a-a532953a7d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/form/div/input</value>
+      <webElementGuid>5b1e8fe5-9934-48ca-b6f6-bcc2e36a0b18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'dropdown']</value>
+      <webElementGuid>4216cf41-b9dc-4e02-b6e9-a067e36e9239</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

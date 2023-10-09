@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Continente Bio_img-fluid pwc-border--radius</name>
+   <tag></tag>
+   <elementGuidId>76919c11-7b96-44e1-ada2-bbe6b97e7c70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-fluid.pwc-border--radius</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slick-slide00']/div/a/picture/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5235a628-09bb-49c6-9aef-b11badd457fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid pwc-border--radius</value>
+      <webElementGuid>476eb991-534d-4ca0-8fd2-1878fe402286</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.continente.pt/dw/image/v2/BDVS_PRD/on/demandware.static/-/Sites-global-navigation-catalog/default/dwf48c4c6e/images/marcas/marca-propria/standard/bio-bebidas-vegetais.jpg?sw=600&amp;sh=150</value>
+      <webElementGuid>6077d9cb-fcc9-4cc9-93c1-679556771a98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Bebidas Vegetais</value>
+      <webElementGuid>1353b8e8-1515-4d18-bb04-ee760d4ec946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Bebidas Vegetais</value>
+      <webElementGuid>45acf1e7-8e9d-4082-bfc5-06c5d8835f2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slick-slide00&quot;)/div[@class=&quot;category-tile-image pwc-border--radius&quot;]/a[1]/picture[@class=&quot;intrinsic intrinsic--category-tile&quot;]/img[@class=&quot;img-fluid pwc-border--radius&quot;]</value>
+      <webElementGuid>52b8a2ae-4bff-4050-bbbd-958ed4083690</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slick-slide00']/div/a/picture/img</value>
+      <webElementGuid>45cbf238-2db0-4b32-9a08-94f5c694b302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Bebidas Vegetais']</value>
+      <webElementGuid>f7e54c0c-be80-4926-b7ce-2be6b74eadf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/picture/img</value>
+      <webElementGuid>2ded9ad5-bd0b-4307-8d67-6fcd4fa48878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://www.continente.pt/dw/image/v2/BDVS_PRD/on/demandware.static/-/Sites-global-navigation-catalog/default/dwf48c4c6e/images/marcas/marca-propria/standard/bio-bebidas-vegetais.jpg?sw=600&amp;sh=150' and @alt = 'Bebidas Vegetais' and @title = 'Bebidas Vegetais']</value>
+      <webElementGuid>f538bdf1-d516-44c9-9c8d-4c5483fe1c37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

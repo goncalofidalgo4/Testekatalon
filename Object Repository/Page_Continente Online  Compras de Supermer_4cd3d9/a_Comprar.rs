@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Comprar</name>
+   <tag></tag>
+   <elementGuidId>78b5849f-08f2-4e3e-9001-dd70b45884ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.button--primary.minicart-add-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='minicart-footer']/div/div[2]/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>91142a28-7772-4538-8de7-8480b6262d98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9e30f587-714b-4671-9073-e445756eb9e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.continente.pt/recomendacoes/?rurl=3</value>
+      <webElementGuid>bdc25267-7a36-4f6a-a087-9fdd8d954eff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button--primary minicart-add-button</value>
+      <webElementGuid>adc22970-0afc-4f6f-82ff-81305ecd075b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+ Comprar</value>
+      <webElementGuid>f457a723-9f49-430d-bb00-44dde511aa49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;minicart-footer&quot;)/div[@class=&quot;minicart-footer&quot;]/div[@class=&quot;row no-gutters&quot;]/div[@class=&quot;col&quot;]/a[@class=&quot;button button--primary minicart-add-button&quot;]</value>
+      <webElementGuid>8b021727-9da6-49c2-999d-278298031b62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='minicart-footer']/div/div[2]/div[2]/a</value>
+      <webElementGuid>f6e110a2-c931-4277-bf0e-2fa8c7b03af6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anular'])[4]/following::a[2]</value>
+      <webElementGuid>76978152-2b5f-43f3-a114-a7c08bab7cd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantidade no carrinho'])[2]/following::a[3]</value>
+      <webElementGuid>a5903e9e-cc9f-4cee-b00a-5bb979e688d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Encomenda mínima: €20. Complete a encomenda.'])[1]/preceding::a[1]</value>
+      <webElementGuid>cd14b45d-ad3d-4410-851a-e551e8295a25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.continente.pt/recomendacoes/?rurl=3')])[2]</value>
+      <webElementGuid>0203bb5f-9ccb-4e50-80d7-034163aa2b17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[3]/div/div[2]/div[2]/a</value>
+      <webElementGuid>f6fae571-5b65-46ba-9235-4ab6cd9a9cf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.continente.pt/recomendacoes/?rurl=3' and (text() = '
+
+ Comprar' or . = '
+
+ Comprar')]</value>
+      <webElementGuid>26d75804-f012-4c65-99be-2e39374ccc86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

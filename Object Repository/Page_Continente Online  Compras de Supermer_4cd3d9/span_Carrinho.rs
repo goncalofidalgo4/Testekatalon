@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Carrinho</name>
+   <tag></tag>
+   <elementGuidId>be60ae5f-a889-407e-903e-96c6252419fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.add-to-cart.button.button--primary.js-add-to-cart.js-add-to-cart-tile.col-button.col-dynamic-layout-btn.7635921.button--primary.col-button--primary.dynamic-layout-btn > span.add-to-cart--text.d-none.d-sm-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slick-slide31']/div/div/div/div[3]/div[2]/div[3]/div[2]/button/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>02ef4c43-966a-49c5-a018-3a5909ed3352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-to-cart--text d-none d-sm-block</value>
+      <webElementGuid>b0f80f76-3bc8-4d49-89fb-693e051991dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Carrinho</value>
+      <webElementGuid>46360ec6-3614-4274-be34-186bd807bef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slick-slide31&quot;)/div[@class=&quot;product&quot;]/div[@class=&quot;product-tile pid-7635921   ct-product-tile col-product-tile&quot;]/div[@class=&quot;ct-inner-tile-wrap col-inner-tile-wrap row no-gutters justify-content-center align-content-start&quot;]/div[@class=&quot;ct-tile-body col col-sm-auto&quot;]/div[@class=&quot;ct-tile-bottom row no-gutters justify-content-between&quot;]/div[@class=&quot;pwc-tile-buy-section d-flex justify-content-center no-gutters  col-auto col-sm-12 pwc-cta-align-bottom&quot;]/div[@class=&quot;col-sm-10 col-12&quot;]/button[@class=&quot;add-to-cart button button--primary js-add-to-cart js-add-to-cart-tile col-button col-dynamic-layout-btn 7635921 button--primary col-button--primary dynamic-layout-btn&quot;]/span[@class=&quot;add-to-cart--text d-none d-sm-block&quot;]</value>
+      <webElementGuid>1ced4ae9-5cac-4062-8dd8-f0a2d05cf382</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slick-slide31']/div/div/div/div[3]/div[2]/div[3]/div[2]/button/span[2]</value>
+      <webElementGuid>6dc34466-4b0e-40c0-8632-c93acc338550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/kg'])[3]/following::span[3]</value>
+      <webElementGuid>29e08904-ae3b-4e8d-8505-7dc7c0c0e4ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€6,99'])[1]/following::span[4]</value>
+      <webElementGuid>57968655-e529-46fd-aa25-698f56dad04c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[5]/preceding::span[2]</value>
+      <webElementGuid>4217a16a-0d97-4a62-829e-8435317c3cc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cápsulas de Café Ristretto Int 13'])[1]/preceding::span[3]</value>
+      <webElementGuid>029c439d-df13-4c66-b5b9-d1585fe7eed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div[3]/div[2]/div[3]/div[2]/button/span[2]</value>
+      <webElementGuid>0f2971b3-e070-41c6-8e4b-3038357f5e8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Carrinho' or . = 'Carrinho')]</value>
+      <webElementGuid>7fdb3abd-5af8-4a23-9545-af7e7f95de1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

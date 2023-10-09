@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Consigo no seu dia-a-dia_lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>146dfd0f-1b80-49cc-867b-0dbe3e190958</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>picture.intrinsic.intrinsic--popular-image > img.lazyloaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='col-homepage']/div/div/div/div/div[9]/div/div[2]/div/div/div/a/div/picture/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6eecedac-d879-41fa-b2d8-af3960fbf56e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lazyloaded</value>
+      <webElementGuid>542055da-4692-4169-acc9-e8ca37a42fa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>905e636c-3a5c-46d4-8908-076eb027ddf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://www.continente.pt/dw/image/v2/BDVS_PRD/on/demandware.static/-/Sites-continente-Library/default/dwaf9743c4/images/homepage/continente-comunidade/2023/Melhores-Vinhos.jpg?sw=915&amp;sh=300&amp;sm=fit</value>
+      <webElementGuid>a74e8585-9e4c-4b78-8951-53af9518bc9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Melhores vinhos portugueses </value>
+      <webElementGuid>2b965525-309c-4339-ba48-f60acfb44206</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Melhores vinhos portugueses </value>
+      <webElementGuid>e04be49f-74de-40c7-8097-efa87396796c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.continente.pt/dw/image/v2/BDVS_PRD/on/demandware.static/-/Sites-continente-Library/default/dwaf9743c4/images/homepage/continente-comunidade/2023/Melhores-Vinhos.jpg?sw=915&amp;sh=300&amp;sm=fit</value>
+      <webElementGuid>33dc9603-93d8-4dda-9193-ebc239060fac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;col-homepage&quot;)/div[@class=&quot;fullpage&quot;]/div[@class=&quot;no-padding--sides&quot;]/div[@class=&quot;row no-gutters&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;experience-component experience-commerce_layouts-halfBannersGridLayout&quot;]/div[@class=&quot;half-banner-grid&quot;]/div[@class=&quot;row mx-0&quot;]/div[@class=&quot;region grid-col col-12 col-sm-6&quot;]/div[@class=&quot;experience-component experience-commerce_assets-halfBanner&quot;]/div[@class=&quot;popular-image-wrapper&quot;]/a[1]/div[@class=&quot;image-component--common image-component--div&quot;]/picture[@class=&quot;intrinsic intrinsic--popular-image&quot;]/img[@class=&quot;lazyloaded&quot;]</value>
+      <webElementGuid>b5973f9a-784a-4356-b909-bb531b780ca1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='col-homepage']/div/div/div/div/div[9]/div/div[2]/div/div/div/a/div/picture/img</value>
+      <webElementGuid>c4d1c1d7-35b7-4398-8384-91102913d9ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Melhores vinhos portugueses ']</value>
+      <webElementGuid>78c8b452-3c06-4290-8b22-d59c6747b2de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/div/picture/img</value>
+      <webElementGuid>6272f069-ba14-4439-bdfe-1fb247ee9745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Melhores vinhos portugueses ' and @title = 'Melhores vinhos portugueses ' and @src = 'https://www.continente.pt/dw/image/v2/BDVS_PRD/on/demandware.static/-/Sites-continente-Library/default/dwaf9743c4/images/homepage/continente-comunidade/2023/Melhores-Vinhos.jpg?sw=915&amp;sh=300&amp;sm=fit']</value>
+      <webElementGuid>48972090-8989-420b-a552-17b7d50fc93a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

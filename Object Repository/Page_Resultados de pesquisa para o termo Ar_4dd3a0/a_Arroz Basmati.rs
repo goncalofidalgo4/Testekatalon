@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Arroz Basmati</name>
+   <tag></tag>
+   <elementGuidId>a14ed39f-ba00-454d-b415-6ebc6853184e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.pwc-tile--description.col-tile--description</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-search-results']/div/div[2]/div[2]/div/div/div/div/div[2]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3eaf8c10-9245-4788-a7a2-31e54b976120</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pwc-tile--description col-tile--description</value>
+      <webElementGuid>cbaaf0b0-8427-40c4-a5d5-d14da01a734b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.continente.pt/produto/arroz-basmati-cacarola-3040677.html</value>
+      <webElementGuid>0585a0be-04a3-4744-9aee-90cca64bcd23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Arroz Basmati</value>
+      <webElementGuid>36d032cb-812b-4f79-8e12-d0dc496fdea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-search-results&quot;)/div[@class=&quot;search-results-grid&quot;]/div[@class=&quot;results-section&quot;]/div[@class=&quot;row product-grid no-gutters gtm-list&quot;]/div[@class=&quot;col-12 col-sm-3 col-lg-2 productTile&quot;]/div[@class=&quot;product&quot;]/div[@class=&quot;product-tile pid-3040677 ct-product-tile col-product-tile data-layer-pushed&quot;]/div[@class=&quot;ct-inner-tile-wrap col-inner-tile-wrap row no-gutters justify-content-center align-content-start&quot;]/div[@class=&quot;ct-tile-body col col-sm-auto&quot;]/div[@class=&quot;ct-pdp-details&quot;]/div[@class=&quot;ct-pdp-link col-pdp-link&quot;]/a[@class=&quot;pwc-tile--description col-tile--description&quot;]</value>
+      <webElementGuid>dc152dab-9f81-43fb-ac01-835a1129690b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-search-results']/div/div[2]/div[2]/div/div/div/div/div[2]/div/div/a</value>
+      <webElementGuid>243334e7-c9c8-4623-ba4b-f6d82b3a0198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Arroz Basmati')]</value>
+      <webElementGuid>0add941b-d632-40fc-ab13-30c038fd4f49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limpar filtros'])[1]/following::a[2]</value>
+      <webElementGuid>9221b2c6-0a5e-4114-93af-8cd4e7ea4fed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ordenar por'])[1]/following::a[2]</value>
+      <webElementGuid>785d5974-3db2-41e6-8c59-685ad196e4e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€7,07'])[1]/preceding::a[1]</value>
+      <webElementGuid>9912f2e2-6de1-4198-9389-8a188ca1ceef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/un'])[1]/preceding::a[1]</value>
+      <webElementGuid>7b1843b9-186f-4981-8b68-fd10128c7a73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Arroz Basmati']/parent::*</value>
+      <webElementGuid>99d423cc-8f06-420b-b9a6-2b3899a288c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.continente.pt/produto/arroz-basmati-cacarola-3040677.html')])[2]</value>
+      <webElementGuid>3764dbfc-59bf-4cb6-a9d6-589a5c7c4895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/div/a</value>
+      <webElementGuid>2cef8312-12cd-4be8-ac41-3c34f829e109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.continente.pt/produto/arroz-basmati-cacarola-3040677.html' and (text() = 'Arroz Basmati' or . = 'Arroz Basmati')]</value>
+      <webElementGuid>458a4efb-40f4-45d1-b139-3e64d0ebf081</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

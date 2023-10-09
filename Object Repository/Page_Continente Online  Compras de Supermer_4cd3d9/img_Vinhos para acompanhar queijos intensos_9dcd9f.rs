@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Vinhos para acompanhar queijos intensos_9dcd9f</name>
+   <tag></tag>
+   <elementGuidId>e583dcf7-7e5f-43d8-8e28-02fea1594cf9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#slick-slide10 > div.experience-component.experience-commerce_assets-imageAndText > div.ITC-container.js-itc-container > div.row.ITC-row > div.col-12 > figure.ITC-figure.image-component > a.ITC-image-link > picture.intrinsic.intrinsic--itc-large > img.lazyloaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slick-slide10']/div/div/div/div/figure/a/picture/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>85489c8b-ce2b-4466-969f-e25744b2505a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lazyloaded</value>
+      <webElementGuid>36495d90-beac-4799-9819-6b7708bb525b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>ae4b57b8-3b98-4d2f-a04d-50babffe06a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://www.continente.pt/dw/image/v2/BDVS_PRD/on/demandware.static/-/Sites-continente-Library/default/dw476ae0ed/images/homepage/continente-comunidade/2023/570x450.jpg?sw=540&amp;sh=540&amp;sm=fit</value>
+      <webElementGuid>4844b88d-8919-40ca-a7d5-f0b9bd5242df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Bilhetes Liga Portugal </value>
+      <webElementGuid>daed0fa3-2cd8-4c8a-9dc1-b40802fea90e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Bilhetes Liga Portugal </value>
+      <webElementGuid>41c32c32-e971-4a1d-89dc-d930fd437211</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.continente.pt/dw/image/v2/BDVS_PRD/on/demandware.static/-/Sites-continente-Library/default/dw476ae0ed/images/homepage/continente-comunidade/2023/570x450.jpg?sw=540&amp;sh=540&amp;sm=fit</value>
+      <webElementGuid>8ee2aae5-ae73-4d80-9a45-cde6b298eae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slick-slide10&quot;)/div[@class=&quot;experience-component experience-commerce_assets-imageAndText&quot;]/div[@class=&quot;ITC-container js-itc-container&quot;]/div[@class=&quot;row ITC-row&quot;]/div[@class=&quot;col-12&quot;]/figure[@class=&quot;ITC-figure image-component&quot;]/a[@class=&quot;ITC-image-link&quot;]/picture[@class=&quot;intrinsic intrinsic--itc-large&quot;]/img[@class=&quot;lazyloaded&quot;]</value>
+      <webElementGuid>c350ddee-0722-41d6-a738-d19b60d9b638</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slick-slide10']/div/div/div/div/figure/a/picture/img</value>
+      <webElementGuid>fb645317-ae9b-417c-a3dc-ef1f8cf61767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Bilhetes Liga Portugal ']</value>
+      <webElementGuid>6b3a58b9-f951-4ad4-8f8d-d79f285d605b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/div/div/div/div/div/figure/a/picture/img</value>
+      <webElementGuid>2c910c26-f4d2-455e-8ab5-468cec42c9e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Bilhetes Liga Portugal ' and @title = 'Bilhetes Liga Portugal ' and @src = 'https://www.continente.pt/dw/image/v2/BDVS_PRD/on/demandware.static/-/Sites-continente-Library/default/dw476ae0ed/images/homepage/continente-comunidade/2023/570x450.jpg?sw=540&amp;sh=540&amp;sm=fit']</value>
+      <webElementGuid>0e3ec4b8-ec00-4ccf-a968-a7703ee66aad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

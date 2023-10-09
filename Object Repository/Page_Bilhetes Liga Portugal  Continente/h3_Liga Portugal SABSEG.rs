@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Liga Portugal SABSEG</name>
+   <tag></tag>
+   <elementGuidId>43d4b02f-6c5b-4a54-865c-d745b0decb31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='calendarioLiga']/div/div/div[2]/div/div/h3[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>a79c16c3-710f-4385-9ebe-16443fcab4bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filterTag</value>
+      <webElementGuid>a4a6e30d-7ba5-4c86-a13d-a403bae36147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-league</name>
+      <type>Main</type>
+      <value>liga_2</value>
+      <webElementGuid>2001ce86-2cc3-4b64-ae18-d50b87ad618c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Liga Portugal SABSEG</value>
+      <webElementGuid>511ba26f-7187-4680-8cbe-124c4af5a178</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calendarioLiga&quot;)/div[@class=&quot;wrapper grid&quot;]/div[@class=&quot;gameCalendar__container&quot;]/div[@class=&quot;tabSelectionBlock grid&quot;]/div[@class=&quot;tabSelectionBlock__left&quot;]/div[@class=&quot;selectAll_tags&quot;]/h3[@class=&quot;filterTag&quot;]</value>
+      <webElementGuid>4c330b48-7dcd-43f2-acdb-1e493e8ba5a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='calendarioLiga']/div/div/div[2]/div/div/h3[2]</value>
+      <webElementGuid>25cb01fb-5fa0-4c0d-9688-2c7180d54275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liga Portugal Betclic'])[1]/following::h3[1]</value>
+      <webElementGuid>bc13a74b-9183-48c0-8c1a-23460f4cf3e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ligaportugal.pt'])[1]/following::h3[2]</value>
+      <webElementGuid>36ec997b-ba38-40a7-a8df-8344f9971221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allianz CUP'])[1]/preceding::h3[1]</value>
+      <webElementGuid>910a4c5b-e915-4649-911d-6d3671425b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3[2]</value>
+      <webElementGuid>b62c1d24-6844-4250-b9e1-1160e950b648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Liga Portugal SABSEG' or . = 'Liga Portugal SABSEG')]</value>
+      <webElementGuid>463705cc-12df-479e-bc8b-00202ce736f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

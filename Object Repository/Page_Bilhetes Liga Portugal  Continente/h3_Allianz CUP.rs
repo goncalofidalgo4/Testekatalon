@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Allianz CUP</name>
+   <tag></tag>
+   <elementGuidId>99321d39-5f21-457c-abd8-28e9e8aea452</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='calendarioLiga']/div/div/div[2]/div/div/h3[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>fdd882dc-5016-44f0-a686-44484c07d500</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filterTag</value>
+      <webElementGuid>ca6af6ca-2b41-469e-b2dc-13d330ad4f80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-league</name>
+      <type>Main</type>
+      <value>liga_taca</value>
+      <webElementGuid>d96631ad-1d9c-4360-b608-74a5e75a0a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Allianz CUP</value>
+      <webElementGuid>ea293bda-d796-483d-9aa4-e8960efa3fc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calendarioLiga&quot;)/div[@class=&quot;wrapper grid&quot;]/div[@class=&quot;gameCalendar__container&quot;]/div[@class=&quot;tabSelectionBlock grid&quot;]/div[@class=&quot;tabSelectionBlock__left&quot;]/div[@class=&quot;selectAll_tags&quot;]/h3[@class=&quot;filterTag&quot;]</value>
+      <webElementGuid>e159997e-b03a-45ca-b14c-6a514d4450f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='calendarioLiga']/div/div/div[2]/div/div/h3[3]</value>
+      <webElementGuid>b751c5f1-0924-48d9-998f-0c66905a4e4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liga Portugal SABSEG'])[1]/following::h3[1]</value>
+      <webElementGuid>ad0a54ca-1518-490e-843b-35f832ba1621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liga Portugal Betclic'])[1]/following::h3[2]</value>
+      <webElementGuid>1bbe654a-f2ec-4a7a-bc59-8d35427ca4b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campo incorreto'])[1]/preceding::h3[1]</value>
+      <webElementGuid>4c09351b-bb5d-4364-9598-3b148c382ce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3[3]</value>
+      <webElementGuid>9c07be21-1958-413f-be35-60faa875c006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Allianz CUP' or . = 'Allianz CUP')]</value>
+      <webElementGuid>9074c9b7-88d2-47db-9584-7e1ba14b6ed5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
