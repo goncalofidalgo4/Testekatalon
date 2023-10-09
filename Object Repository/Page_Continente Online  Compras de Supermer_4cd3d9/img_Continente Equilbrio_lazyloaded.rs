@@ -6,12 +6,12 @@
    <elementGuidId>187fee6b-1ec1-4e68-a95e-f3e8f932748d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='col-homepage']/div/div/div/div/div[7]/div/div[2]/div[3]/div/a/picture/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>0641f314-8c60-4584-814b-54666b2a86f2</webElementGuid>
+      <webElementGuid>60087e61-69a1-4270-9972-6f63fe7c5a53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>lazyloaded</value>
-      <webElementGuid>ac94e794-a124-4b22-8a92-c980a00cf9b1</webElementGuid>
+      <webElementGuid>8791b6c8-28e3-407d-b12c-f57fadac195a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>da8fb8bf-8165-4f8d-8292-6c741ffcecd5</webElementGuid>
+      <webElementGuid>8160a4c9-a65a-4a42-a63d-48cc6cada28c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-src</name>
       <type>Main</type>
       <value>https://www.continente.pt/dw/image/v2/BDVS_PRD/on/demandware.static/-/Sites-continente-Library/default/dwd4b2b3ad/images/pages/marca-propria/continente-bio-bola-home.jpg?sw=270&amp;sh=270&amp;sm=fit</value>
-      <webElementGuid>aed13ce2-364e-42d0-91cc-a08b63ca9f63</webElementGuid>
+      <webElementGuid>b016be0c-f25b-442d-9990-3b10c90f83d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Marca Continente Bio</value>
-      <webElementGuid>3521a30a-8362-4bbe-b039-76e09efb0b4f</webElementGuid>
+      <webElementGuid>65ff614b-1d6d-4c46-91ff-596ca6a97f9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Marca Continente Bio</value>
-      <webElementGuid>b126d111-9477-4a04-aa20-7446e7278f0c</webElementGuid>
+      <webElementGuid>16927a3c-19bf-46a7-9a41-1e717554ebae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://www.continente.pt/dw/image/v2/BDVS_PRD/on/demandware.static/-/Sites-continente-Library/default/dwd4b2b3ad/images/pages/marca-propria/continente-bio-bola-home.jpg?sw=270&amp;sh=270&amp;sm=fit</value>
-      <webElementGuid>d1b4624b-62a3-43fe-ac9c-83b5dba9830e</webElementGuid>
+      <webElementGuid>fed9ddef-2912-40d8-9588-18f8f25776d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;col-homepage&quot;)/div[@class=&quot;fullpage&quot;]/div[@class=&quot;no-padding--sides&quot;]/div[@class=&quot;row no-gutters&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;experience-component experience-commerce_layouts-popularCategories&quot;]/div[@class=&quot;popular-categories&quot;]/div[@class=&quot;row mx-0 category-layout-grid&quot;]/div[@class=&quot;col-sm-2 col-4 category-tile-wrapper&quot;]/div[@class=&quot;image-cropper&quot;]/a[1]/picture[@class=&quot;intrinsic intrinsic--square&quot;]/img[@class=&quot;lazyloaded&quot;]</value>
-      <webElementGuid>5600be53-51f2-4fb8-a301-ce7524545be6</webElementGuid>
+      <webElementGuid>1efb5b23-13cb-4030-85ee-57cd1262c0a9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='col-homepage']/div/div/div/div/div[7]/div/div[2]/div[3]/div/a/picture/img</value>
-      <webElementGuid>cd2c2f6b-7203-4fc9-846f-f37c072cf3b2</webElementGuid>
+      <webElementGuid>bef0dd7b-6b48-44eb-9f31-ccb763d66e60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Marca Continente Bio']</value>
-      <webElementGuid>20ed634c-b3e8-4d0f-a024-a207a5eb3a2a</webElementGuid>
+      <webElementGuid>455db112-797f-468f-bcc4-4c5a3db56998</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/div[2]/div[3]/div/a/picture/img</value>
-      <webElementGuid>0854ce4b-cde0-4594-b9ae-8dc796c3cf2a</webElementGuid>
+      <webElementGuid>ec2d74b9-a70c-4a70-9f59-b772d9fa5e33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'Marca Continente Bio' and @title = 'Marca Continente Bio' and @src = 'https://www.continente.pt/dw/image/v2/BDVS_PRD/on/demandware.static/-/Sites-continente-Library/default/dwd4b2b3ad/images/pages/marca-propria/continente-bio-bola-home.jpg?sw=270&amp;sh=270&amp;sm=fit']</value>
-      <webElementGuid>7732bfe1-815a-4aeb-9395-814fa9785d65</webElementGuid>
+      <webElementGuid>a79411ee-a1e4-486c-a0c6-6ddd342b1697</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

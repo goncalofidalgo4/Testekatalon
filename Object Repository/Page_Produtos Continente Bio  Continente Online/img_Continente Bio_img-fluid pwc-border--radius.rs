@@ -6,12 +6,12 @@
    <elementGuidId>76919c11-7b96-44e1-ada2-bbe6b97e7c70</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>img.img-fluid.pwc-border--radius</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='slick-slide00']/div/a/picture/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-fluid.pwc-border--radius</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>5235a628-09bb-49c6-9aef-b11badd457fd</webElementGuid>
+      <webElementGuid>3a5dd59f-47dd-49ff-9bd3-c3dba9fae52f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>img-fluid pwc-border--radius</value>
-      <webElementGuid>476eb991-534d-4ca0-8fd2-1878fe402286</webElementGuid>
+      <webElementGuid>e6f4964e-e6a4-46cd-b11d-b38826f70b00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://www.continente.pt/dw/image/v2/BDVS_PRD/on/demandware.static/-/Sites-global-navigation-catalog/default/dwf48c4c6e/images/marcas/marca-propria/standard/bio-bebidas-vegetais.jpg?sw=600&amp;sh=150</value>
-      <webElementGuid>6077d9cb-fcc9-4cc9-93c1-679556771a98</webElementGuid>
+      <webElementGuid>0a0695ab-2a2c-4bf2-a563-57df44eba475</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Bebidas Vegetais</value>
-      <webElementGuid>1353b8e8-1515-4d18-bb04-ee760d4ec946</webElementGuid>
+      <webElementGuid>b8becc49-e217-40d3-8a5a-1a4ff4a9aff6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Bebidas Vegetais</value>
-      <webElementGuid>45acf1e7-8e9d-4082-bfc5-06c5d8835f2d</webElementGuid>
+      <webElementGuid>e788760f-b17b-49c4-a600-d9d3f0b07a63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;slick-slide00&quot;)/div[@class=&quot;category-tile-image pwc-border--radius&quot;]/a[1]/picture[@class=&quot;intrinsic intrinsic--category-tile&quot;]/img[@class=&quot;img-fluid pwc-border--radius&quot;]</value>
-      <webElementGuid>52b8a2ae-4bff-4050-bbbd-958ed4083690</webElementGuid>
+      <webElementGuid>05070399-0d4a-403d-99d1-b95344e26209</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='slick-slide00']/div/a/picture/img</value>
-      <webElementGuid>45cbf238-2db0-4b32-9a08-94f5c694b302</webElementGuid>
+      <webElementGuid>e52aa52c-4d43-450a-99bd-66c932d45a79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Bebidas Vegetais']</value>
-      <webElementGuid>f7e54c0c-be80-4926-b7ce-2be6b74eadf6</webElementGuid>
+      <webElementGuid>305f7200-a802-4c03-8fa5-3c72a3fc8d92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/picture/img</value>
-      <webElementGuid>2ded9ad5-bd0b-4307-8d67-6fcd4fa48878</webElementGuid>
+      <webElementGuid>bf1860d0-8a21-4068-85b1-82733ae656d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://www.continente.pt/dw/image/v2/BDVS_PRD/on/demandware.static/-/Sites-global-navigation-catalog/default/dwf48c4c6e/images/marcas/marca-propria/standard/bio-bebidas-vegetais.jpg?sw=600&amp;sh=150' and @alt = 'Bebidas Vegetais' and @title = 'Bebidas Vegetais']</value>
-      <webElementGuid>f538bdf1-d516-44c9-9c8d-4c5483fe1c37</webElementGuid>
+      <webElementGuid>5b87ab2e-cccb-4248-a880-6a701d18180e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
