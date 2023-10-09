@@ -19,8 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('TC01 - Continente'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('TC01 - Continente'), [:], FailureHandling.STOP_ON_FAILURE)
-
 WebUI.click(findTestObject('Object Repository/Page_Continente Online  Compras de Supermer_4cd3d9/img_Continente Equilbrio_lazyloaded'))
 
 WebUI.click(findTestObject('Object Repository/Page_Produtos Continente Bio  Continente Online/img_Continente Bio_img-fluid pwc-border--radius'))
