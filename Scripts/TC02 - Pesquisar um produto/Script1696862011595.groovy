@@ -26,5 +26,5 @@ WebUI.setText(findTestObject('Object Repository/Page_Continente Online  Compras 
 
 WebUI.click(findTestObject('Object Repository/Page_Continente Online  Compras de Supermer_4cd3d9/button_Ver todos os produtos'))
 
-WebUI.click(findTestObject('Object Repository/Page_Resultados de pesquisa para o termo Ar_4dd3a0/a_Arroz Basmati'))
+WebUI.closeBrowser()
 
