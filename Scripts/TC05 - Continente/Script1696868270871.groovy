@@ -25,5 +25,7 @@ WebUI.navigateToUrl('https://www.continente.pt/marcas/produtos-marca-continente/
 
 WebUI.click(findTestObject('Object Repository/Page_Produtos Continente Bio  Continente Online/img_Continente Bio_img-fluid pwc-border--radius'))
 
+WebUI.takeScreenshot()
+
 WebUI.closeBrowser()
 

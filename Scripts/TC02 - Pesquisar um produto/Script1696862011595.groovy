@@ -24,5 +24,7 @@ WebUI.click(findTestObject('Object Repository/Page_Continente Online  Compras de
 WebUI.setText(findTestObject('Object Repository/Page_Continente Online  Compras de Supermer_4cd3d9/input_2023 Modelo Continente Hipermercados,_958617'), 
     'Arroz')
 
+WebUI.takeScreenshot()
+
 WebUI.closeBrowser()
 

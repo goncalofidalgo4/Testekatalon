@@ -27,5 +27,7 @@ WebUI.click(findTestObject('Object Repository/Page_Cerveja com lcool - emb. 24 x
 
 WebUI.click(findTestObject('Object Repository/Page_Cerveja com lcool - emb. 24 x 25 cl - _c669ba/button_Quantidade no carrinho_increase-quan_d2e8f5'))
 
+WebUI.takeScreenshot()
+
 WebUI.closeBrowser()
 

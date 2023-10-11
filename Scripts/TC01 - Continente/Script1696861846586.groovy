@@ -23,3 +23,4 @@ WebUI.navigateToUrl('https://www.continente.pt/')
 
 WebUI.click(findTestObject('Object Repository/Page_Continente Online  Compras de Supermer_4cd3d9/button_Permitir todos'))
 
+WebUI.takeScreenshot()
