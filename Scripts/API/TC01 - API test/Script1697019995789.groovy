@@ -17,12 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('TC01 - Continente'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/Page_Continente Online  Compras de Supermer_4cd3d9/svg_EntregaZero_svg-inline icon-search'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Continente Online  Compras de Supermer_4cd3d9/input_2023 Modelo Continente Hipermercados,_958617'), 
-    'Arroz')
-
-WebUI.closeBrowser()
+WS.sendRequest(findTestObject('API/New User', [('age') : '18', ('gender') : 'Male', ('username') : 'mimi', ('password') : '123456789']))
 
