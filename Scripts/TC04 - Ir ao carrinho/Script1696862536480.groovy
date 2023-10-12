@@ -27,7 +27,9 @@ WebUI.click(findTestObject('Object Repository/Page_Continente Online  Compras de
 
 WebUI.navigateToUrl('https://www.continente.pt/login/?rurl=3')
 
-WebUI.takeScreenshot()
+WebUI.takeScreenshot('Test/Demo4.png')
+
+WebUI.takeScreenshotAsCheckpoint('Teste4')
 
 WebUI.closeBrowser()
 
