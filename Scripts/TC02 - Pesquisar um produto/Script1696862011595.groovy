@@ -19,10 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('TC01 - Continente'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Continente Online  Compras de Supermer_4cd3d9/svg_EntregaZero_svg-inline icon-search'))
+WebUI.click(findTestObject(By.xpath('//button[@class="btn no-padding js-open-searchbar"]')))
 
-WebUI.setText(findTestObject('Object Repository/Page_Continente Online  Compras de Supermer_4cd3d9/input_2023 Modelo Continente Hipermercados,_958617'), 
-    'Arroz')
+WebUI.setText(findTestObject(By.xpath('//input[@id="input-custom-label-search"]')), 'Arroz')
+
+WebUI.click(findTestObject(By.xpath('//button[text()="Ver todos os produtos"]')))
 
 WebUI.takeScreenshot('Test/Demo2.png')
 
