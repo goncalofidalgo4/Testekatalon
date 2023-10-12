@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll']</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a678de12-2df6-4d40-bd6c-35ec6de70915</webElementGuid>
+      <webElementGuid>d6adf9e9-611f-4c15-bf44-0a06c4eb8803</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll</value>
-      <webElementGuid>91719dd7-98f5-4354-8cb0-4fcf65423794</webElementGuid>
+      <webElementGuid>d30ea509-24e3-47d3-83bc-f17045d6daa6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>CybotCookiebotDialogBodyButton</value>
-      <webElementGuid>600d328f-694c-4888-8801-15fa7b40c42e</webElementGuid>
+      <webElementGuid>f13f3c52-ede0-4c32-aa75-cad9465161e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>f82f1249-825b-4bb7-8359-aa6765796926</webElementGuid>
+      <webElementGuid>0dbf75e2-e9ea-419b-b38b-e7b31178ecce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>lang</name>
       <type>Main</type>
       <value>pt</value>
-      <webElementGuid>5c9b32f0-5e4a-4268-86f9-cb522dbe8875</webElementGuid>
+      <webElementGuid>6d03634c-72d7-4a5e-b9e4-8b1ae44521b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Permitir todos</value>
-      <webElementGuid>26486e02-23e0-417e-97ff-606bfbe63d30</webElementGuid>
+      <webElementGuid>b767db5d-bd00-46a9-a507-48f105ddd536</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll&quot;)</value>
-      <webElementGuid>30a01cbb-57c0-4ac6-9344-8cd45a392909</webElementGuid>
+      <webElementGuid>bc26adae-5100-4881-8ba6-88b29cf0c089</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll']</value>
-      <webElementGuid>fed7536c-352b-4ffd-8808-289d978586dd</webElementGuid>
+      <webElementGuid>d46c447c-ce92-422c-8ccd-2c398b2babc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='CybotCookiebotDialogBodyButtonsWrapper']/button[4]</value>
-      <webElementGuid>400560e3-dc33-4a5a-afbd-18c8499d1bc9</webElementGuid>
+      <webElementGuid>90aca64f-55e5-438a-83e6-7081e5219c94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Personalizar'])[1]/following::button[1]</value>
-      <webElementGuid>faccbcc8-0db1-4487-bd74-738cbdff78a6</webElementGuid>
+      <webElementGuid>75c6083c-c3d8-46ed-8936-0fde03cfb24f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmar'])[1]/following::button[2]</value>
-      <webElementGuid>4ce82cff-c2e2-49dd-95fe-73e2d4715e83</webElementGuid>
+      <webElementGuid>79efa4ab-6386-4b8f-a5a3-c7d7c9d88f05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookiebot by Usercentrics'])[1]/preceding::button[1]</value>
-      <webElementGuid>8b2c0641-e318-43d5-97d6-dcec7c8b1a36</webElementGuid>
+      <webElementGuid>68136be1-5b63-4b03-88fa-606ce781e9bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Permitir todos']/parent::*</value>
-      <webElementGuid>734ccbd5-6143-423f-9452-6acdf7c589b4</webElementGuid>
+      <webElementGuid>3a47d9ff-4829-4078-8027-5e17675a8029</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[4]</value>
-      <webElementGuid>5b49253a-fef8-425c-8220-2cb44e998ef3</webElementGuid>
+      <webElementGuid>6a24c047-bdb4-40d9-a32d-2043c4c22916</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll' and (text() = 'Permitir todos' or . = 'Permitir todos')]</value>
-      <webElementGuid>87c8e8cf-2cd3-40f3-b975-c241d4cbb9e1</webElementGuid>
+      <webElementGuid>fa65c4cc-3fc1-4b83-b58a-fe25f0523806</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

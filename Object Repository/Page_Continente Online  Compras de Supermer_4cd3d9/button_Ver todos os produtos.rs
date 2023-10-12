@@ -6,12 +6,12 @@
    <elementGuidId>c4661a85-2854-492c-9729-a56424cfdb82</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.button.col-button.button--secondary.col-button--secondary.suggestions-viewall-button</value>
+         <key>XPATH</key>
+         <value>//button[text()='Ver todos os produtos']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//header[@id='brand-header']/nav/div/div[3]/form/div/div[2]/div/div/div/div/div/button</value>
+         <key>CSS</key>
+         <value>button.button.col-button.button--secondary.col-button--secondary.suggestions-viewall-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5e574709-36a6-412b-a329-2f79b01eaf0d</webElementGuid>
+      <webElementGuid>a98f68a6-9691-4170-8238-4aeeed258e48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button col-button button--secondary col-button--secondary suggestions-viewall-button</value>
-      <webElementGuid>d2d4b494-8583-4007-97e6-e0b7a93a46c9</webElementGuid>
+      <webElementGuid>9a6bd593-7e5c-49fe-a43a-e4ad18b282c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,23 +38,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Ver todos os produtos</value>
-      <webElementGuid>36caeffd-8e3f-44c4-9f49-4e0810a3a2ac</webElementGuid>
+      <webElementGuid>dc28fad9-fa0c-4beb-b4ec-aca703a4f55c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;brand-header&quot;)/nav[@class=&quot;nav-wrapper col-nav-wrapper&quot;]/div[@class=&quot;sticky-element navigation-shadows&quot;]/div[@class=&quot;search-mobile search-shadow&quot;]/form[@class=&quot;global-search-form&quot;]/div[@class=&quot;field-input-label col-field-input-label label-animation&quot;]/div[@class=&quot;suggestions-wrapper&quot;]/div[@class=&quot;suggestions modal&quot;]/div[@class=&quot;row no-margin&quot;]/div[@class=&quot;col-12 col-sm-6 ct-sidemodal-dialog-white suggestion-result-wrapper col-sidemodal-dialog&quot;]/div[@class=&quot;suggestions-all-wrapper d-flex flex-column w-100&quot;]/div[@class=&quot;suggestions-all-btn-wrapper&quot;]/button[@class=&quot;button col-button button--secondary col-button--secondary suggestions-viewall-button&quot;]</value>
-      <webElementGuid>52b31f61-c3ab-4e13-9235-49ffaa2f7332</webElementGuid>
+      <value>id(&quot;brand-header&quot;)/nav[@class=&quot;nav-wrapper col-nav-wrapper&quot;]/div[@class=&quot;sticky-element navigation-shadows&quot;]/div[@class=&quot;header-wrapper container-fluid container-margin d-flex align-items-center justify-content-between&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;search d-none d-sm-none d-md-block&quot;]/form[@class=&quot;global-search-form&quot;]/div[@class=&quot;field-input-label col-field-input-label label-animation&quot;]/div[@class=&quot;suggestions-wrapper&quot;]/div[@class=&quot;suggestions&quot;]/div[@class=&quot;row no-margin&quot;]/div[@class=&quot;col-12 col-sm-6 ct-sidemodal-dialog-white suggestion-result-wrapper col-sidemodal-dialog&quot;]/div[@class=&quot;suggestions-all-wrapper d-flex flex-column w-100&quot;]/div[@class=&quot;suggestions-all-btn-wrapper&quot;]/button[@class=&quot;button col-button button--secondary col-button--secondary suggestions-viewall-button&quot;]</value>
+      <webElementGuid>35a780f5-bb96-4911-ac11-bda7c01fbbdd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//header[@id='brand-header']/nav/div/div[3]/form/div/div[2]/div/div/div/div/div/button</value>
-      <webElementGuid>1cef5e62-f451-41ee-8417-65e979cd5047</webElementGuid>
+      <value>//header[@id='brand-header']/nav/div/div/div/div[3]/form/div/div[2]/div/div/div/div/div/button</value>
+      <webElementGuid>76b74ce7-18e7-4ed3-91e3-02068932dad2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,15 +62,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='/kg'])[3]/following::button[1]</value>
-      <webElementGuid>608db4c5-d1e3-45d5-9938-0ec527fca6cb</webElementGuid>
+      <webElementGuid>2d8bd988-e035-47ff-91af-ee2a812a1f6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='€2,03'])[2]/following::button[1]</value>
-      <webElementGuid>725197ae-95df-4052-b438-4c9f0a148d05</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€5,96'])[2]/following::button[1]</value>
+      <webElementGuid>662e39ab-5eff-4cd3-90dc-0605b4caf059</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,15 +78,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Categorias'])[1]/preceding::button[1]</value>
-      <webElementGuid>e01d36dd-3bf6-4481-b089-1f192dfb768d</webElementGuid>
+      <webElementGuid>f01be44d-baa6-44a3-9d09-1b66b686e395</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Arroz'])[2]/preceding::button[1]</value>
-      <webElementGuid>099792a3-c261-4eee-804d-e0887f92cf8f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Arroz'])[1]/preceding::button[1]</value>
+      <webElementGuid>f5bdf8fd-0fb0-477d-b829-31131014700b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Ver todos os produtos']/parent::*</value>
-      <webElementGuid>8845f9b1-18ec-424b-8287-f70e72c1f209</webElementGuid>
+      <webElementGuid>5f4cf7f5-dc84-4ba7-8d92-dd6ad189216a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div/button</value>
-      <webElementGuid>95bac943-5371-432d-b652-f20f17060456</webElementGuid>
+      <webElementGuid>1e42402f-5753-467c-a1ef-547dd439f27c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,30 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Ver todos os produtos' or . = 'Ver todos os produtos')]</value>
-      <webElementGuid>9531aba1-7bbe-4bec-8fed-8ca31faa5194</webElementGuid>
+      <webElementGuid>220c28b1-e5be-4de6-b8cc-1430f0781ceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='brand-header']/nav/div/div[3]/form/div/div[2]/div/div/div/div/div/button</value>
+      <webElementGuid>7a6ea335-98f8-4258-b3c3-276789b8df40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€2,03'])[2]/following::button[1]</value>
+      <webElementGuid>5a048d34-e1db-4822-9a91-5281f50bc0b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Arroz'])[2]/preceding::button[1]</value>
+      <webElementGuid>2b33f1fc-7385-489f-920e-8f16f9f7d013</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

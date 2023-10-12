@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d98a1c25-389f-4839-9ae0-65160db2d764</webElementGuid>
+      <webElementGuid>4ae923e8-4e71-409d-bd9d-12f69fd0c810</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control search-field pwc-form-input col-form-input filled</value>
-      <webElementGuid>f1cceb27-2183-49e0-941f-4f61a0be4055</webElementGuid>
+      <webElementGuid>2def7a4a-9187-4390-be4a-97d50e348de6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>input-custom-label-search</value>
-      <webElementGuid>139a1afc-dfa4-4fb1-9617-bc3a105a0061</webElementGuid>
+      <webElementGuid>cfc86909-6c9f-4298-a49d-f72eba7c0b14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>1fa11f8a-bf71-4570-abca-85d5bd4e9c66</webElementGuid>
+      <webElementGuid>ed23d838-8640-442a-a981-6812a76e3c47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>q</value>
-      <webElementGuid>3028a528-b638-433d-9d88-e1e0d9d2b761</webElementGuid>
+      <webElementGuid>c2d166fe-d038-47ce-946c-7aff809efd76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>c8128700-0324-43dc-9249-4f334b212234</webElementGuid>
+      <webElementGuid>e5f14ded-ca74-4fdd-b405-f2e0fb621630</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>listbox</value>
-      <webElementGuid>f7cbc599-ddb4-4df3-a4d0-9a0eb3530589</webElementGuid>
+      <webElementGuid>6a65baf7-d56c-44d4-95c8-0bbb1856bf58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d101a1d5-3fe1-4cee-b94a-a1bb2a4883ca</webElementGuid>
+      <webElementGuid>f0699970-5b9c-408f-bbd8-dad44de115de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>0dbeb141-3805-4c51-b362-3fa8ceff51d0</webElementGuid>
+      <webElementGuid>26927828-a1a0-4dd8-a055-a480506f2745</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Introduza o termo que deseja pesquisar</value>
-      <webElementGuid>ef777015-3a67-44c5-943d-8ad138c3c4b1</webElementGuid>
+      <webElementGuid>a431b070-e6e4-4fe8-b7c8-f4f73d030195</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>910992a9-6f13-429b-9bd6-b4d5466c122b</webElementGuid>
+      <webElementGuid>59c4c382-150f-470f-89e0-da90b5b613e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>be7a67b7-0cba-4d32-a74c-318926e39a3f</webElementGuid>
+      <webElementGuid>2119322a-bef7-4d31-afd2-56e331bd00ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;input-custom-label-search&quot;)</value>
-      <webElementGuid>2893e730-f276-484a-b603-a82b514a9129</webElementGuid>
+      <webElementGuid>0a6b7ab2-161e-48e7-84f9-9099b2de8f16</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -126,7 +126,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-custom-label-search']</value>
-      <webElementGuid>a09c660b-2e0a-4a33-9505-56429b5265c8</webElementGuid>
+      <webElementGuid>41c13477-de5a-459c-b8fe-3182b7823bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='brand-header']/nav/div/div/div/div[3]/form/div/input</value>
+      <webElementGuid>01e2447e-a6bd-426b-bbcf-dc5cb4fa3546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/input</value>
+      <webElementGuid>97814359-adb7-415f-ae17-5c1ba1aa4a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'input-custom-label-search' and @type = 'search' and @name = 'q']</value>
+      <webElementGuid>a378880e-b45b-4bd8-bc61-38e40258721d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,13 +167,5 @@
       <type>Main</type>
       <value>//div[3]/form/div/input</value>
       <webElementGuid>f0207306-d908-4af1-9595-3ad9c683107e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@id = 'input-custom-label-search' and @type = 'search' and @name = 'q']</value>
-      <webElementGuid>27f463e3-ee12-4af3-80ba-b50bae85dd86</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
