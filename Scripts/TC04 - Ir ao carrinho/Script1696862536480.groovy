@@ -21,8 +21,6 @@ WebUI.callTestCase(findTestCase('TC01 - Continente'), [:], FailureHandling.STOP_
 
 WebUI.click(findTestObject('Object Repository/Page_Continente Online  Compras de Supermer_4cd3d9/span_Carrinho'))
 
-WebUI.click(findTestObject('Object Repository/Page_Continente Online  Compras de Supermer_4cd3d9/div_2                            9,28'))
-
 WebUI.click(findTestObject('Object Repository/Page_Continente Online  Compras de Supermer_4cd3d9/a_Comprar'))
 
 WebUI.navigateToUrl('https://www.continente.pt/login/?rurl=3')
